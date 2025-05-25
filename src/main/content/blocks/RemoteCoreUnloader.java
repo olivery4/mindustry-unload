@@ -5,6 +5,7 @@ import mindustry.type.Category;
 import mindustry.world.Block;
 import mindustry.world.blocks.distribution.Unloader;
 import mindustry.world.meta.BuildVisibility;
+import mindustry.type.ItemStack;
 
 public class RemoteCoreUnloader extends Unloader {
 
