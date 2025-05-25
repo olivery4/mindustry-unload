@@ -1,4 +1,4 @@
-package Main
+package main
 
 import arc.*;
 import arc.util.*;
@@ -16,7 +16,7 @@ public class UnloaderMod extends Mod{
 
     @Override
     public void loadContent(){
-        remote-core-unloader.load();
+        remoteCoreUnloader.load();
         Log.info("Loading some example content.");
     }
 
