@@ -1,4 +1,4 @@
-package UAW.content.blocks;
+package main.content.blocks;
 
 import mindustry.content.Items;
 import mindustry.type.Category;
