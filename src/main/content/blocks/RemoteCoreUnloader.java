@@ -21,7 +21,7 @@ public class RemoteCoreUnloader extends Unloader {
             // Resource requirements to build
             requirements(Category.distribution, ItemStack.with(
                 Items.titanium, 40,
-                Items.silicon, 25,
+                Items.silicon, 25
             ));
     
             // Power usage
