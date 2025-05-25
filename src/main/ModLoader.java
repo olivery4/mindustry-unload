@@ -1,4 +1,4 @@
-package main
+package main;
 
 import arc.*;
 import arc.util.*;
