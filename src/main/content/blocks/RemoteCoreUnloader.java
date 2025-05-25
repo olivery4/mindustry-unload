@@ -9,7 +9,7 @@ import mindustry.type.ItemStack;
 
 public class RemoteCoreUnloader extends Unloader {
 
-    remoteCoreUnloader
+    public static Block remoteCoreUnloader;
 
     public static void load() {
         remoteCoreUnloader = new CoreUnloader("remoteCoreUnloader") {{  
