@@ -9,6 +9,12 @@ import mindustry.type.ItemStack;
 
 public class RemoteCoreUnloader extends Unloader {
 
+    remoteCoreUnloader
+
+    public static void load() {
+        remoteCoreUnloader = new 
+    }
+
     public RemoteCoreUnloader(String name) {
         super(name);
 
