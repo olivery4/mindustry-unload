@@ -9,6 +9,6 @@ public class ModLoader extends Mod {
 
     @Override
     public void loadContent() {
-        RemoteCoreUnloader.load();
+        ModBlocks.load();
     }
 }
