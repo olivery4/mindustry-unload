@@ -1,4 +1,4 @@
-package main.content;
+package main.content.world.blocks.power;
 
 import main.content.blocks.*;
 
