@@ -1,4 +1,4 @@
-package main.content;
+package content;
 
 import main.content.blocks.*;
 
