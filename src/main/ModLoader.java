@@ -1,7 +1,7 @@
 package main;
 
 import mindustry.mod.Mod;
-import unload.ModBlocks;
+import main.ModBlocks;
 
 public class ModLoader extends Mod {
 
