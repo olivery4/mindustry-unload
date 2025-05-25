@@ -1,5 +1,9 @@
 package Main
 
-import arc.Events;
-import mindustry.game.EventType.FileTreeInitEvent;
-import mindustry.mod.Mod;
+import arc.*;
+import arc.util.*;
+import mindustry.*;
+import mindustry.content.*;
+import mindustry.game.EventType.*;
+import mindustry.gen.*;
+import mindustry.mod.*;
