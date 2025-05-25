@@ -36,6 +36,8 @@ public class RemoteCoreUnloader extends Unloader {
         consumePower = 50f / 60f;    // consumes 50 power units per second
         
         buildVisibility = BuildVisibility.shown;  // visible in build menu
+
+        research = "unloader";  // Unlock this block after unloader is researched
     }
     
     // Override methods if needed to customize behavior
