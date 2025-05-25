@@ -4,6 +4,7 @@ import mindustry.content.Items;
 import mindustry.type.Category;
 import mindustry.world.Block;
 import mindustry.world.blocks.distribution.Unloader;
+import main.content.blocks.distribution.CoreUnloader;
 import mindustry.world.meta.BuildVisibility;
 import mindustry.type.ItemStack;
 
