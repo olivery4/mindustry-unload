@@ -1,4 +1,4 @@
-package main.content.blocks;
+package content.blocks;
 
 import mindustry.content.Items;
 import mindustry.type.Category;
