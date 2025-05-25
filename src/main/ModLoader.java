@@ -8,9 +8,9 @@ import mindustry.game.EventType.*;
 import mindustry.gen.*;
 import mindustry.mod.*;
 
-public class UnloaderMod extends Mod{
+public class ModLoader extends Mod{
 
-    public UnloaderMod(){
+    public ModLoader(){
         
     }
 
